@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.signup-btn {
+    background-color: #4f46e5 !important;
+    color: #ffffff !important;
+    border: none;
+}
+
+.signup-btn:hover {
+    background-color: #3730a3 !important;
+}
